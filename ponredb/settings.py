@@ -62,7 +62,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
-AWS_DEFAULT_ACL = None
+# AWS_DEFAULT_ACL = None
 
 ROOT_URLCONF = 'ponredb.urls'
 
