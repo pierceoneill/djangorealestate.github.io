@@ -56,5 +56,5 @@ state_choices = {
         "Waterford" : "Co. Waterford",
         "Westmeath" : "Co. Westmeath",
         "Wexford" :"Co. Wexford",
-        "Wicklow" : "Co. Wicklow"
+        "Wicklow" : "Co. Wicklow",
 }
