@@ -11,7 +11,6 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 """
 
 import os
-import env
 import dj_database_url
 from datetime import timedelta
 from pathlib import Path
